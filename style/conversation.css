@@ -1,0 +1,138 @@
+/* Name */
+._3oh- {
+  color: white;
+}
+/* Last status */
+._2v6o {
+  color: white !important;
+}
+._673w {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+  border-bottom: 1.5px solid rgba(0, 0, 0, 0.2) !important;
+}
+
+/* bubbles */
+._3058._ui9._hh7._6ybn._s1-._52mr._3oh- {
+  background-color: #4e5058;
+}
+
+/* bubbles when remove */
+._3058._ui9._7301._hh7._s1-._52mr._3oh- {
+  background-color: #ec1111;
+}
+/* text when remove */ 
+._aok{
+  color: white;
+}
+
+/* When typing */
+.clearfix._17pz {
+  background-color: #292a2f;
+}
+
+/* Preview Head link in conversation */
+._4ik4._4ik5 {
+  color: white;
+}
+/* website */
+.__6m {
+  color: white !important;
+}
+
+/* Reply message */
+._67tu, ._67tw._1nc6.ellipsis {
+  color: white;
+}
+._3058._4k7a._3-9b._3-90.direction_ltr {
+  color: white;
+}
+
+/* React box */
+._1z8q._fy2 {
+  border-radius: 20px;
+  background-color: #808080;
+}
+
+/* Voice, Video call block */
+._55q._5i_d._52mr {
+  border: 1px solid rgb(128, 128, 128, 0.4);  
+}
+/* after call, video */
+span._50f7 {
+  color: white;
+}
+
+/* Banned user */
+._3058._wiu._52mr.uiBoxYellow.clearfix {
+  color: white;
+}
+
+/* Shared user */
+._tih._310t._3xn3._3xn5 {
+  border: 1px solid rgb(128, 128, 128, 0.4);
+  border-radius: 5px;
+}
+
+/* detail filter message: mutual friend, work at, study at, live at */
+._1n-e {
+  color: #808080 !important;
+}
+
+/* warning filter message */
+._74ku div {
+  color: white;
+}
+
+/***** New Conversation *****/
+._2y8z {
+color: white !important;
+}
+input._58al._7tpc {
+  color: white !important;
+  background-color: #4c4d50;
+}
+input._58al._7tpc::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+}
+.scrollable.uiScrollableAreaWrap {
+  background-color: #292a2f !important;
+}
+
+/***** Right section*****/
+/* Dropdown options */
+h4._1lj0 {
+  color: white;
+}
+/* Name */
+._6ybk a {
+  color: white;
+}
+/* item in dropdown options */
+._3szq {
+  color: white !important;
+}
+._4t2a {
+  background-color: #292a2f !important;
+}
+._4eby._2c9i {
+  background-color: #4e5058;
+  border-radius: 5px;
+}
+
+
+/* Story */
+div._1sk5 {
+  box-shadow: 0 0 0 rgba(0, 0, 0, .1), 0 0 0 #dadde1;
+}
+div._1sk6 {
+  background-color: #292a2f ; 
+  border-radius: 5px;
+  padding: 3px;
+}
+h1._1suj {
+  font-weight: bold;
+}
+abbr.livetimestamp {
+  color: white;
+}

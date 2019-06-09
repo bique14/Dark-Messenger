@@ -1,0 +1,78 @@
+/* *, html {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+} */
+
+/* Background color */
+._4sp8 {
+  background-color: #292a2f !important;
+}
+
+/* margin from title bar */
+._36ic._5l-3 {
+  margin-top: 1.75vh;
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+}
+
+/* Banner color: Messenger */
+._1tqi {
+  color: white;
+}
+
+/* Search bar */
+._58al ._7tpc {
+  border-radius: 5px;
+  background-color: #808080;
+  color: white !important;
+}
+
+/* message from other */
+._1ht6._5nxa._3xsd {
+  color: white;
+}
+._1htf._3xsd{
+  color: gray !important;
+  font-weight: normal !important;
+}
+
+/* @media (max-width: 700px) */
+@media (max-width: 700px) {
+  ._1ht3._1ht1 {
+    /* background-color: rgba(158, 157, 157, 0.43); */
+    background-color: rgba(196, 196, 196, 0.2) !important;
+    transition: background-color .5s;
+  }
+}
+
+/******* Color in chat list *******/
+/* People Name */
+._1ht6 {
+  color: white !important;
+}
+/* Conversation detail */
+._1htf {
+  color: #b0c2d4 !important;
+}
+/* Time stamp conversation */
+abbr._1ht7.timestamp {
+  color: #b0c2d4;
+}
+
+/******* When search name *******/
+/* Contact banner */
+._225b {
+  color: white !important;
+}
+/* Name list */
+._364g {
+  color: white !important;
+}
+/* More people when search */ 
+._3q34, ._3q35 {
+  color: white !important;
+}
+/* Not found people */
+._3xcx {
+  color: white !important;
+}
