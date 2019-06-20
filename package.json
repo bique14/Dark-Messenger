@@ -1,15 +1,18 @@
 {
   "name": "dark-messenger",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Facebook messenger in dark theme",
+  "private": false,
+  "author": "Bique <peerasorn14@gmail.com>",
+  "license": "ISC",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "electron": "electron ."
+    "start": "electron .",
+    "publish": "build -p always"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
-    "electron": "^5.0.3"
+    "electron": "^5.0.3",
+    "electron-builder": "^20.43.0"
   }
 }

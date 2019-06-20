@@ -18,10 +18,11 @@ function createWindow() {
       nodeIntegration: false,
       'web-security': false,
       'plugins': true
-    }
+    },
+    icon: path.join(__dirname, 'assets/icon.icns')
   })
 
-  mainWindow.webContents.reloadIgnoringCache()
+  // mainWindow.webContents.reloadIgnoringCache()
   mainWindow.loadURL('https://www.messenger.com/login/')
 
   mainWindow.webContents.on('dom-ready', function () {
@@ -35,7 +36,7 @@ function createWindow() {
       mainWindow.webContents.insertCSS(data)
     })
   })
-  mainWindow.webContents.openDevTools()
+  // mainWindow.webContents.openDevTools()
   // BrowserWindow.addDevToolsExtension(
   // path.join(os.homedir(), '/Library/Application Support/Google/Chrome/Default/Extensions/lmhkpmbekcpmknklioeibfkpmmfibljd/2.17.0_0')
   // )
