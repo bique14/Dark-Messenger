@@ -36,7 +36,7 @@ function createWindow() {
       mainWindow.webContents.insertCSS(data)
     })
   })
-  // mainWindow.webContents.openDevTools()
+  mainWindow.webContents.openDevTools()
   // BrowserWindow.addDevToolsExtension(
   // path.join(os.homedir(), '/Library/Application Support/Google/Chrome/Default/Extensions/lmhkpmbekcpmknklioeibfkpmmfibljd/2.17.0_0')
   // )
